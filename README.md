@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
-  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
+  Olá, meu nome é Matheus Cabral sou <strong>Desenvolvedor Front e Back-end</strong>.<br>
+  Estou cursando Engenharia de Computação.
 </p>
 
 <p align="left">
-  👋 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Materialize e UI Design.</strong>
+  👋 Skills: <strong>JavaScript, HTML5, CSS3, Sass, Bootstrap, React Native e Materialize.</strong>
 </p>
 
 <p align="left">
-  🚀 Estudando atualmente: <strong>JavaScript e ReactJS.</strong>
+  🚀 Estudando atualmente: <strong>Node.JS, JavaScript 6+ e ReactJS.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Angular, Vue.JS, React Native, TypeScript, Node.JS e UX Design.</strong>
+  🔥 Pretende aprender: <strong>Angular, Vue.JS, TypeScript e UX Design.</strong>
 </p>
 
 <p align="left">
