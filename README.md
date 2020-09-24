@@ -24,6 +24,6 @@
 </p>
  
 <a href="https://www.linkedin.com/in/matheus-cbrl" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cbrl" /></a>
+<img src="https://img.shields.io/badge/-Matheus%20Cabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cbrl" /></a>
  
 </p>
