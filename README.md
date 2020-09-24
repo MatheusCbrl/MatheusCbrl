@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
@@ -22,11 +22,8 @@
 <p align="left">
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
-
-<p align="left">
-<a href="mailto:iuricodebrasil@gmail.com" alt="Gmail"></a>
-  
-<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+ 
+<a href="https://www.linkedin.com/in/matheus-cbrl" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cbrl" /></a>
  
- </p>
+</p>
