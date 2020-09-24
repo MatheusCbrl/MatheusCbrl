@@ -1,5 +1,3 @@
-👋
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
@@ -8,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Materialize e UI Design.</strong>
+  👋 Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Materialize e UI Design.</strong>
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>JavaScript e ReactJS.</strong>
+  🚀 Estudando atualmente: <strong>JavaScript e ReactJS.</strong>
 </p>
 
 <p align="left">
@@ -20,7 +18,7 @@
 </p>
 
 <p align="left">
-📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+📫  Quer falar comigo? Mande uma mensagem pelo linkedin!
 </p>
  
 <a href="https://www.linkedin.com/in/matheus-cbrl" alt="Linkedin">
