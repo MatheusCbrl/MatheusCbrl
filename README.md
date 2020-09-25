@@ -16,6 +16,9 @@
 <p align="left">
   🔥 Pretende aprender: <strong>Angular, Vue.JS, TypeScript e UX Design.</strong>
 </p>
+<p align="left">
+  🚀 Utilitários: <strong>Vercel, Netlify entre outros.</strong>
+</p>
 
 <p align="left">
 📫  Quer falar comigo? Mande uma mensagem pelo linkedin!
