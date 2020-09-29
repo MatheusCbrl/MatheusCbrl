@@ -1,6 +1,7 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador MatheusCbrl">
+
 <h1 align="center">Hi 👋, I'm Matheus Cabral</h1>
 <h3 align="center">Desenvolvedor Front e Back-end</h3>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador MatheusCbrl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuscbrl" alt="matheuscbrl" /> </p>
 <p align="left">
