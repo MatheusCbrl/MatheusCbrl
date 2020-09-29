@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador MatheusCbrl">
-<p  align="center"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coder" width="500" height="400">
+
 <p align="left">
   Olá, meu nome é Matheus Cabral sou <strong>Desenvolvedor Front e Back-end</strong>.<br>
   Estou cursando Engenharia de Computação.
