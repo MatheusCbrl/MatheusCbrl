@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Matheus Cabral</h1>
-<h3 align="center">Desenvolvedor Front e Back-end</h3>
+<h3 align="center">Dev. Front and Back-end</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador MatheusCbrl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuscbrl" alt="matheuscbrl" /> </p>
 <p align="left">
-  Estou cursando Engenharia de Computação.
+  I'm currently studying Computer Engineering.
 </p>
 
 <p align="left">
@@ -13,18 +13,18 @@
 </p>
 
 <p align="left">
-  🚀 Estudando atualmente: <strong>Node.JS, JavaScript 6+ e ReactJS.</strong>
+  🚀 I’m currently working: <strong>Node.JS, JavaScript 6+ e ReactJS.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Angular, Vue.JS, TypeScript e UX Design.</strong>
+  🔥 I’m currently learning: <strong>Angular, Vue.JS, TypeScript e UX Design.</strong>
 </p>
 <p align="left">
-  🚀 Utilitários: <strong>Vercel, Netlify entre outros.</strong>
+  🚀 Tools: <strong>Vercel, Netlify entre outros.</strong>
 </p>
 
 <p align="left">
-📫  Quer falar comigo? Mande uma mensagem pelo LinkedIn!
+📫  How to reach me: you can reach on LinkedIn!
 </p>
  
 <a href="https://www.linkedin.com/in/matheus-cbrl" alt="Linkedin">
