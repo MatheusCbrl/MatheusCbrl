@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-📫  How to reach me: you can reach on LinkedIn!
+📫  How to reach me: you can reach on <strong>LinkedIn</strong>!
 </p>
  
 <a href="https://www.linkedin.com/in/matheus-cbrl" alt="Linkedin">
