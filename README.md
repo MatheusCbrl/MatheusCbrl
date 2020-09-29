@@ -29,5 +29,5 @@
  
 </p>
 
-<img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" min-width="400px" max-width="400px" width="400px" align="center" alt="Rocket MatheusCbrl">
+<img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" min-width="400px" max-width="800px" width="600px" align="center" alt="Rocket MatheusCbrl">
 
