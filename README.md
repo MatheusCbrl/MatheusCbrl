@@ -28,6 +28,3 @@
 <img src="https://img.shields.io/badge/-Matheus%20Cabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cbrl" /></a>
  
 </p>
-
-<img src="https://i.pinimg.com/originals/74/5f/d3/745fd3d279f7c5f27dc4e12fd583e68f.gif" min-width="1200px" max-width="1200px" width="1200px" align="center" alt="Rocket MatheusCbrl">
-
