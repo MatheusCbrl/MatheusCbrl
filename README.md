@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuscbrl" alt="matheuscbrl" /> </p>
 <p align="left">
-  Olá, meu nome é Matheus Cabral sou <strong>Desenvolvedor Front e Back-end</strong>.<br>
   Estou cursando Engenharia de Computação.
 </p>
 
