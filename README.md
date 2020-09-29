@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-📫  Quer falar comigo? Mande uma mensagem pelo linkedin!
+📫  Quer falar comigo? Mande uma mensagem pelo LinkedIn!
 </p>
  
 <a href="https://www.linkedin.com/in/matheus-cbrl" alt="Linkedin">
