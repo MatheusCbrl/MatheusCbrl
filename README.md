@@ -19,7 +19,7 @@
   🔥 I’m currently learning: <strong>Angular, Vue.JS, TypeScript e UX Design.</strong>
 </p>
 <p align="left">
-  🚀 Tools: <strong>Vercel, Netlify entre outros.</strong>
+  🚀 Tools: <strong>Vercel, Netlify and others.</strong>
 </p>
 
 <p align="left">
