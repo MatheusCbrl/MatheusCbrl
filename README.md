@@ -1,22 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Matheus Cabral</h1>
-<h3 align="center">Dev. Front and Back-end</h3>
+<h3 align="center">Data Engineer</h3>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador MatheusCbrl">
 
 <p align="left">
-  I'm currently studying Computer Engineering.
+  I'm graduated in Computer Engineering.
 </p>
 
 <p align="left">
-  👋 Skills: <strong>JavaScript, HTML5, CSS3, Sass, Bootstrap, React Native, Python, Expo e Materialize.</strong>
+  👋 Skills: <strong>Python, JavaScript, SQL</strong>
 </p>
 
 <p align="left">
-  🚀 I’m currently working: <strong>Node.JS, JavaScript 6+ e ReactJS.</strong>
+  🚀 I’m currently working: <strong>Python, JavaScript</strong>
 </p>
 
 <p align="left">
-  🔥 I’m currently learning: <strong>Angular, Vue.JS, TypeScript e UX Design.</strong>
+  🔥 I’m currently learning: <strong>DataBricks and Azure Platform.</strong>
 </p>
 <p align="left">
   🚀 Tools: <strong>Vercel, Netlify and others.</strong>
