@@ -11,17 +11,7 @@
   👋 Skills: <strong>Python, JavaScript, SQL</strong>
 </p>
 
-<p align="left">
-  🚀 I’m currently working: <strong>Python, JavaScript</strong>
-</p>
-
-<p align="left">
-  🔥 I’m currently learning: <strong>DataBricks and Azure Platform.</strong>
-</p>
-<p align="left">
-  🚀 Tools: <strong>Vercel, Netlify and others.</strong>
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCbrl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 📫  How to reach me: you can reach on <strong>LinkedIn</strong>!
 </p>
