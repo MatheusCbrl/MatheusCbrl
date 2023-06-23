@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Matheus Cabral</h1>
-<h3 align="center">Data Engineer</h3>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador MatheusCbrl">
+<h1 align="left">Hi 👋, I'm Matheus Cabral</h1>
+<h3 align="left">Data Engineer</h3>
 
 <p align="left">
   I'm graduated in Computer Engineering.
@@ -23,4 +22,4 @@
 
 <p align="left">
 </p>
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=matheuscbrl" alt="matheuscbrl" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=matheuscbrl" alt="matheuscbrl" /> </h3>
