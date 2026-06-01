@@ -10,7 +10,7 @@
   👋 Skills: <strong>Python, Fabric, Databricks, SQL, Pyspark</strong>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCbrl)](https://github.com/anuraghazra/github-readme-stats)
+[![MatheusCbrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscbrl)](https://github.com/matheuscbrl/github-readme-stats)
 <p align="left">
 📫  How to reach me: you can reach on <strong>LinkedIn</strong>!
 </p>
