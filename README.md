@@ -10,7 +10,7 @@
   👋 Skills: <strong>Python, Fabric, Databricks, SQL, Pyspark</strong>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCbrl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCbrl)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 📫  How to reach me: you can reach on <strong>LinkedIn</strong>!
 </p>
